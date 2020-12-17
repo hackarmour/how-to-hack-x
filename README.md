@@ -1,5 +1,5 @@
 # how-to-hack-x
-How to hack {insert_anything_here}
+How to hack {insert_anything_here} and hacking HOW TOs ;)
 
 Inspired by https://github.com/danistefanovic/build-your-own-x
 

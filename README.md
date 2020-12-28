@@ -11,3 +11,4 @@ Inspired by https://github.com/danistefanovic/build-your-own-x
 * [How to hack CCTV cameras](https://learncctv.com/how-to-hack-cctv-camera/)
 * [How to develop exploits (resources, reddit thread)](https://www.reddit.com/r/ExploitDev/comments/fk7kpw/learn_exploit_dev_while_selfisolating/)
 * [How to become a pen tester (intro article) ](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
+* [How to hack an Apache tomcat manager server](Hacking a Apache tomcat manager (java spring boot and stuff)

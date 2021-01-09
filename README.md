@@ -3,6 +3,10 @@ How to hack {insert_anything_here} and hacking HOW TOs ;)
 
 Inspired by https://github.com/danistefanovic/build-your-own-x
 
+```
+I recommend going though the process. Only reading the article is not enough. 
+```
+
 ## Table of contents
 
 * [How to get root on Ubuntu 20.04 by pretending nobody’s /home](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)

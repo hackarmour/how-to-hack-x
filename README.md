@@ -16,3 +16,5 @@ Inspired by https://github.com/danistefanovic/build-your-own-x
 * [How to find Identifying Information from a Phone Number Using OSINT Tools](https://null-byte.wonderhowto.com/how-to/find-identifying-information-from-phone-number-using-osint-tools-0195472/)
 * [How to snan for Vulnerabilities on Websites Using Nikto](https://null-byte.wonderhowto.com/how-to/scan-for-vulnerabilities-any-website-using-nikto-0151729/)
 * [How to extract Bitcoin Wallet Addresses & Balances from Websites with SpiderFoot CLI](https://null-byte.wonderhowto.com/how-to/extract-bitcoin-wallet-addresses-balances-from-websites-with-spiderfoot-cli-0238107/)
+* [How to gather information about postgres ql database](https://null-byte.wonderhowto.com/how-to/gather-information-postgresql-databases-with-metasploit-0218317/)
+* [How to gather information about mysql database](https://null-byte.wonderhowto.com/how-to/enumerate-mysql-databases-with-metasploit-0203485/)

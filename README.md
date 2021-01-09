@@ -18,3 +18,4 @@ Inspired by https://github.com/danistefanovic/build-your-own-x
 * [How to extract Bitcoin Wallet Addresses & Balances from Websites with SpiderFoot CLI](https://null-byte.wonderhowto.com/how-to/extract-bitcoin-wallet-addresses-balances-from-websites-with-spiderfoot-cli-0238107/)
 * [How to gather information about postgres ql database](https://null-byte.wonderhowto.com/how-to/gather-information-postgresql-databases-with-metasploit-0218317/)
 * [How to gather information about mysql database](https://null-byte.wonderhowto.com/how-to/enumerate-mysql-databases-with-metasploit-0203485/)
+* [How to find deleted web pages with metasploit](https://null-byte.wonderhowto.com/how-to/hack-like-pro-metasploit-for-aspiring-hacker-part-10-finding-deleted-webpages-0165555/)

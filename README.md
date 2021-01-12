@@ -23,3 +23,4 @@ I recommend going though the process. Only reading the article is not enough.
 * [How to gather information about postgres ql database](https://null-byte.wonderhowto.com/how-to/gather-information-postgresql-databases-with-metasploit-0218317/)
 * [How to gather information about mysql database](https://null-byte.wonderhowto.com/how-to/enumerate-mysql-databases-with-metasploit-0203485/)
 * [How to find deleted web pages with metasploit](https://null-byte.wonderhowto.com/how-to/hack-like-pro-metasploit-for-aspiring-hacker-part-10-finding-deleted-webpages-0165555/)
+* [How to Use the Shodan API with Python to Automate Scans for IOT Vulnerable Devices](https://null-byte.wonderhowto.com/how-to/hacks-mr-robot-use-shodan-api-with-python-automate-scans-for-vulnerable-devices-0180975/)

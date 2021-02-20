@@ -25,4 +25,4 @@ I recommend going though the process. Only reading the article is not enough.
 * [How to find deleted web pages with metasploit](https://null-byte.wonderhowto.com/how-to/hack-like-pro-metasploit-for-aspiring-hacker-part-10-finding-deleted-webpages-0165555/)
 * [How to Use the Shodan API with Python to Automate Scans for IOT Vulnerable Devices](https://null-byte.wonderhowto.com/how-to/hacks-mr-robot-use-shodan-api-with-python-automate-scans-for-vulnerable-devices-0180975/)
 * [How to dump your first firmware (hardware hacking)](https://blog.nvisium.com/intro-to-hardware-hacking-dumping-your-first-firmware)
-* [Begin firmware reversing (extracting file system for binaries)](https://blog.securelayer7.net/how-to-start-iot-device-firmware-reverse-engineering/)
+* [How to begin firmware reversing (extracting file system for binaries)](https://blog.securelayer7.net/how-to-start-iot-device-firmware-reverse-engineering/)
